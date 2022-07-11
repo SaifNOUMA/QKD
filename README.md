@@ -1,6 +1,7 @@
 # Hybrid Low-Cost Quantum-Safe Key Distribution
 
 This repository contains the implementation of the post-quant key distribution using TRNG provided by Quibitekk, Inc.
+The full paper can be downloaded from [here](https://cse.usf.edu/~attilaayavuz/article/22/HQKD_USFQubitekk_2022.pdf). The source code is currently locked with a passcode that we can only provide upon requests.
 
 
 # Prerequisites
